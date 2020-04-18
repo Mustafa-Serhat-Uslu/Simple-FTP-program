@@ -9,6 +9,6 @@ Check out the YouTube video down below for quick code review and demonstration
      <img 
       src="https://img.youtube.com/vi/iBfx60QNiBc/0.jpg" 
       alt="Everything Is AWESOME" 
-      style="width:500px;height:600px;">
+      height="400" width="575">
       </a>
     </div>
