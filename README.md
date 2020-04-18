@@ -1,5 +1,7 @@
-# Simple-FTP-program
-( login / download / upload / rename / delete / create / cd / list )
+# Simple-FTP-program ( login / download / upload / rename / delete / create / cd / list )
+
+
+Check out the YouTube video down below for quick code review and demonstration
 
 
 <div align="center">
